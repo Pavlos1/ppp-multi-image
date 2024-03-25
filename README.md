@@ -59,6 +59,7 @@ Then we will obtain the following partition structure:
 * `/dev/mmcblk0p6`: Distro 5 (11 GiB)
 * `/dev/mmcblk0p7`: Shared partition for general data storage (4.6 GiB)
 
+
 ## Bootloaders
 
 The `mkimage.sh` script will automatically install Megi's custom U-Boot image
