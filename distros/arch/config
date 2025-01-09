@@ -1,4 +1,4 @@
-URL=https://github.com/dreemurrs-embedded/Pine64-Arch/releases/download/20240326/archlinux-pinephone-pro-phosh-20240326.img.xz
+URL=https://github.com/dreemurrs-embedded/Pine64-Arch/releases/download/20241223/archlinux-pinephone-pro-phosh-20241223.img.xz
 PARTLABEL=ppp-multi-image-arch
 
 METHOD=img
